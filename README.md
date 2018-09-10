@@ -1,6 +1,9 @@
 # Single-Channel-Speech-Enhancement-Based-On-DNN
 Use DNN to estimate the phase information of the speech in STFT filed to improve the speech quality and intelligibility.
 
+"Phase-Aware Speech Enhancement Based on Deep Neural Networks", Naijun Zheng and Xiao-Lei Zhang
+
+
 DNN_sim is the Matlab code
 
 
